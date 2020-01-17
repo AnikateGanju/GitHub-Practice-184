@@ -36,6 +36,8 @@
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Sarah Shy         | Section 001       | sarahshy            | <https://sarahshy.github.io/>     |
 | Sarah Shy Demo    | Section 001       | sarahshy            | <https://sarahshy.github.io/Shy-Github-Demo/> |
+| Anikate Ganju Demo| Section 001       | Anikate Ganju       | <https://github.com/AnikateGanju/stat184demo/> |
+
 
 
 <br>
